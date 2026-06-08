@@ -1,5 +1,3 @@
---QUESTION 1
-
 WITH sent AS (
     SELECT date, user_id_sender, user_id_receiver
     FROM fb_friend_requests
